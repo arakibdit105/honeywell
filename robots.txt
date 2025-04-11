@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://evt.storage.caidc.honeywell.com/sitemap.xml
